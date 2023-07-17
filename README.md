@@ -27,3 +27,5 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nutlope/twitterbio&env=OPENAI_API_KEY&project-name=twitter-bio-generator&repo-name=twitterbio)
 
 ## Notes
+
+To define an example user schema for clients interested in Precision services, I would create a typescript interface
