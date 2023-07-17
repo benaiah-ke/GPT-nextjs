@@ -28,4 +28,4 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 ## Notes
 
-To define an example user schema for clients interested in Precision services, I would create a typescript interface
+To define an example user schema for clients interested in Precision services, I would create a typescript interface to define the structure of the user object and include it's properties
