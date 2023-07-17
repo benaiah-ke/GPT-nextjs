@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import { getAllResources } from '../api/api';
 
 const MyPage = () => {
